@@ -16,6 +16,3 @@ format:
 	npm run lint
 	npm run format
 	npm run stylelint
-
-rename:
-	./utils/rename.sh

@@ -1,5 +1,5 @@
 {
-  "name": "my-app-frontend",
+  "name": "print-terminal-ui",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -35,9 +35,11 @@
     "stylelint-config-standard": "^34.0.0",
     "stylelint-use-nesting": "^4.1.0",
     "typescript": "^5.3.3",
-    "vite": "^4.5.1",
+    "vite": "^5.3.4",
     "vite-plugin-stylelint": "^5.3.1",
+    "vite-plugin-vuetify": "^2.0.3",
     "vite-svg-loader": "^5.1.0",
-    "vue-tsc": "^2.0.26"
+    "vue-tsc": "^2.0.26",
+    "vuetify": "^3.6.13"
   }
 }
